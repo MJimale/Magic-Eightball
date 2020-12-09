@@ -1,4 +1,4 @@
-![Image of project image](https://github.com/MJimale/Magic-Eightball/blob/master/src/Components/Answer/Eightball.gif)
+![Image of project image](https://github.com/MJimale/Magic-Eightball/blob/master/src/Components/Answer/Eightball.gif?w=100&ch=100&cy=center)
 
 #### Magic Eightball
 Magic Eighball game in React form.
